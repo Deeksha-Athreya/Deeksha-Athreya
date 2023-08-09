@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there!
+### About me:
+I am a developer exploring my interests. I've worked with Python on exploring diffrent areas of ML. I am also intrested in learning more on cloud computing.
 
 <!--
 **Deeksha-Athreya/Deeksha-Athreya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
