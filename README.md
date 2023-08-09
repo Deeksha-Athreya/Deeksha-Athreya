@@ -1,5 +1,6 @@
-### Hi there!
-### About me:
+### Hi there! ✨
+
+### 🌱 About me:
 I am a developer exploring my interests. I've worked with Python on exploring diffrent areas of ML. I am also intrested in learning more on cloud computing.
 
 <!--
